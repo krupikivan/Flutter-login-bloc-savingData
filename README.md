@@ -1,4 +1,4 @@
-<h1>Flutter Bloc Pattern with Login and Saving Data to server </h1>
+<h1>Flutter Bloc Pattern with Login and Saving Data to server + JWT (token) </h1>
 
 Files Required:
 
